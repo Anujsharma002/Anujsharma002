@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujsharma002&label=Profile%20views&color=0e75b6&style=flat" alt="Anujsharma002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AnujSharma0002" target="blank"><img src="https://img.shields.io/twitter/follow/Anuj sharma?logo=twitter&style=for-the-badge" alt="Anuj+sharma"  </p>
+<p align="left"> <a href="https://twitter.com/AnujSharma0002" target="blank"><img src="https://img.shields.io/twitter/follow/Anujsharma0002?logo=twitter&style=for-the-badge" alt="Anuj+sharma"  </p>
  
  🔭 I’m currently working on  **College project**
  
