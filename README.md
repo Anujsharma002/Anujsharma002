@@ -36,7 +36,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<div align = "center">
  <hr/>
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +52,6 @@
     <img src="https://skillicons.dev/icons?i=github,python,c,cpp,java" /><br>
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,vim,emacs" />
 </div>
-
 <br/>
 <hr/>
 
