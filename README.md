@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Anujsharma002.Anujsharma002" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Sharma!;+Remote+Backend+%26+Applied+AI+Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Sharma!;+Backend+%26+Applied+AI+Engineer;" />
 </h1>
 
-<h3 align="center">🌍 Remote-First Backend Engineer • Applied AI • LLM Systems</h3>
+<h3 align="center">Backend Engineer • Applied AI • LLM Systems</h3>
 
 <br/>
 
@@ -15,15 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=Anujsharma002&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-💼 **Remote Experience:** SDE Intern @ HypothesisBase (Fully Remote)  
+🔭 **Previously:** SDE Intern @ HypothesisBase (Remote)  
 
-⚙️ **What I build:** Scalable backends, AI-powered systems, automation tools  
+🤖 **Focused on:** Backend Systems, LLMs, RAG, Automation Platforms  
 
-🤖 **Core Focus:** LLMs, RAG pipelines, agent workflows, API systems  
+⚙️ **Tech I use daily:** FastAPI, Python, React, Docker, Vector DBs  
 
-🌍 **Timezone:** IST (Flexible overlap with EU / US teams)  
-
-💬 Ask me about **FastAPI, LLMs, RAG, distributed systems, automation  
+💬 Ask me about **FastAPI, LLMs, RAG, backend systems or anything  
 [here](https://github.com/Anujsharma002/Anujsharma002/issues)**  
 
 ⚡ Fun fact: **Oppenheimer is considered a 0-VFX movie**  
@@ -34,7 +32,7 @@
 
 <div align="center"> 
   <a href="mailto:anuj.sharma.cs.02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/anuj-sharma-24b550226" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -46,55 +44,33 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Tech Stack (Production-Ready) ⚒️</h2>
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,fastapi,react" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres" />
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🚀 Selected Projects</h2>
+<h2 align="center">🚀 Featured Work</h2>
 
 <div align="center">
 
-🔹 **HRBot** – AI HR assistant with **RAG + local LLMs (Mistral via Ollama)**  
-→ FastAPI backend, React UI, FAISS vector search  
-
-🔹 **Trio Programming Language**  
-→ Designed a custom interpreted language (parsing, runtime, execution)  
-
-🔹 **JSON Backend Generator**  
-→ Auto-generates FastAPI services from JSON schemas (routes, models, APIs)  
-
-🔹 **JobApplicator (WIP)**  
-→ AI-driven resume generation from job descriptions (FastAPI + Groq)
+🤖 **HRBot** – AI-powered HR assistant using **FastAPI, React, LangChain, FAISS, Mistral (Ollama)**  
+🧪 **Trio Programming Language** – Custom interpreted, weakly typed language  
+🏗️ **JSON Backend Generator** – Auto-generates FastAPI backends from JSON schema  
+📄 **JobApplicator (WIP)** – AI-based resume generation from job descriptions  
 
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">🤝 Remote-Work Mindset</h2>
-
-<div align="center">
-
-✅ Async-friendly communication  
-✅ Clear documentation & clean PRs  
-✅ Comfortable owning features end-to-end  
-✅ Experience working across time zones  
-✅ Strong focus on reliability & maintainability  
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 
 <div align="center">
@@ -108,5 +84,5 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Open+to+Remote+Backend+%26+AI+Roles;+Comfortable+with+Async+Teams;+Let’s+Build+Something+Great+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Open+to+Remote+Roles+%26+Collabs;+Let’s+build+something+cool+🚀" />
 </h3>
